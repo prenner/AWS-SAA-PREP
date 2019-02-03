@@ -1,5 +1,24 @@
 # AWS Certified Solutions Architect Study Guide
 
+[Global Infrastructure](#global-infrastructure)  
+
+[Networking](#networking)
+
+[Compute](#compute)
+
+[Storage](#storage)
+
+[Databases](#databases)
+
+[Analytics](#analytics)
+
+[Security/Identity](#security--identity)
+
+[Management Tools](#management-tools)
+
+[Application Services](#application-services)
+
+[Acronyms](#acronyms)
 
 
 # Global Infrastructure
